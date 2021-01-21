@@ -1,0 +1,84 @@
+0
+00:00:07,149 --> 00:00:13,000
+Welcome to SQL and Relational Database 101!
+
+1
+00:00:13,000 --> 00:00:15,620
+Database software usage is pervasive.
+
+2
+00:00:15,620 --> 00:00:20,590
+Its presence is everywhere, from retrieving money through an automatic teller machine,
+
+3
+00:00:20,590 --> 00:00:24,440
+to badge access at a secure office location.
+
+4
+00:00:24,440 --> 00:00:29,980
+Yet it is basically taken for granted every day by billions of users worldwide.
+
+5
+00:00:29,980 --> 00:00:34,580
+In computer science, databases are among the most researched domains.
+
+6
+00:00:34,580 --> 00:00:39,400
+And, there are multiple types of databases to suit various industry requirements.
+
+7
+00:00:39,400 --> 00:00:47,430
+In this course, you'll learn the relational database model and the basics of the SQL language
+
+8
+00:00:47,430 --> 00:00:53,390
+through a series of components: There are five modules, covering an introduction to
+
+9
+00:00:53,390 --> 00:01:00,589
+relational databases (including definitions), information and data models, and relational
+
+10
+00:01:00,589 --> 00:01:02,960
+model constraints.
+
+11
+00:01:02,960 --> 00:01:08,990
+You are also introduced to five basic SQL statements, including some advanced techniques
+
+12
+00:01:08,990 --> 00:01:14,490
+in retrieving data from one or more relational database tables.
+
+13
+00:01:14,490 --> 00:01:19,760
+At the end of each module, there are three review questions to test your knowledge and
+
+14
+00:01:19,760 --> 00:01:21,810
+understanding of the concepts.
+
+15
+00:01:21,810 --> 00:01:28,240
+You'll also be able to apply what you've learned through four hands-on labs so you can try
+
+16
+00:01:28,240 --> 00:01:30,000
+out these concepts yourself.
+
+17
+00:01:30,000 --> 00:01:36,610
+Then, you'll be ready to take the 15-question final exam!
+
+18
+00:01:36,610 --> 00:01:40,180
+From start to finish, this course should take you less than four hours.
+
+19
+00:01:40,180 --> 00:01:45,900
+And, as Spock said in the movie Wrath of Kahn, "For everything there is a first time".
+
+20
+00:01:45,900 --> 00:01:46,969
+So let's get started!
+
