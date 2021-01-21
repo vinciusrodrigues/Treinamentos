@@ -1,0 +1,7 @@
+Module 1: SQL and Relational Databases 101
+• Introduction to SQL and Relational Databases
+• Information and Data Models
+• Types of Relationships
+• Mapping Entities to Tables
+• Relational Model Concepts
+• Module 1 Lab
